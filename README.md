@@ -22,13 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **engineer**, **developer**, and 
 ---
 
 ## 🔧 My Technical Toolbox  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,node.js,angular,express,c,cs,cpp,git,java,docker,linux,py,arduino,tensorflow)](https://skillicons.dev)
 
 ---
 
