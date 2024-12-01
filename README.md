@@ -1,8 +1,6 @@
 <div align="center">
-    <h1 style="display: inline-block">Hi 👋, I'm Ahmed Bhan</h1>
+    <h1 style="display: inline-block">Hi 👋, I'm Ahmed</h1>
 </div>
-
-![Blue Geometric Technology LinkedIn Banner](https://github.com/your-username/your-repo/assets/banner-image-link)
 
 <!-- Snake Animation -->
 
@@ -19,45 +17,13 @@
 
 - 🤔 Open to contributing to beginner-friendly open-source projects!
 
-- 📫 Check me out on [LinkedIn](https://www.linkedin.com/in/ahmed-bhan-83267b1b8/)!  
-  📫 Check out my [LeetCode](https://leetcode.com/your-username/)!  
-  📫 Explore my [Kaggle](https://kaggle.com/your-username/)!  
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
-
 ---
 
 <!-- Stats & Trophy -->
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&show_icons=true&count_private=true" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-  
-</td>
-</tr>
-</table>
-
-<!-- Trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Ahmed's Trophies" />
-    </a>
-</div>
-
-</p>
-
----
+<
 
 <!-- Technologies -->
 <div id="user-content-toc">
@@ -80,9 +46,9 @@
   </ul>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-bhan-83267b1b8/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/your-username" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a> 
-<a href="https://instagram.com/your-username/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>  
+<a href="https://www.linkedin.com/in/ahmed-bhan-83267b1b8/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/your-username" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" /></a> 
+<a href="https://instagram.com/your-username/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"alt="instagram" /></a>  
 </p>
 
 ---
