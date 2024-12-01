@@ -1,28 +1,34 @@
-# 🌟 Ahmed Bhan - Magnificent Programmer in the Making!
-
-**Confusion is part of Programming!**
+# **Confusion is part of Programming!**
 
 ---
 
-🔭 I’m currently working on multiplying my skills in the fields of **Data Science**, **Machine Learning**, **Deep Learning**, and **Full Stack Development (MERN Stack)**.
+🔭 I’m actively building skills in **Electronics**, **Machine Learning**, **Deep Learning**, and **Full Stack Development (MEAN Stack)**.
 
-🌱 I’m currently learning **Generative AI**, **Advanced Computer Vision**, **Cloud Computing**, and the **MERN Stack**.
+🌱 Currently exploring **Generative AI**, **Advanced Computer Vision**, **Cloud Computing**, and the **MERN Stack**.
 
-🤔 I’m looking for help with some open-source projects to get started!
+🤔 Open to contributing to beginner-friendly open-source projects!
 
 ---
 
-## 🛠️ Technologies That I Know 👨🏻‍💻
+## 🛠️ Technologies I Work With 👨🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular,express,c,cs,cpp,git,java,docker,linux,py,arduino,tensorflow)](https://skillicons.dev)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,ts,nodejs,angular,express,git,java,docker,linux,py,arduino,tensorflow,pytorch,gmail)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-bhan-83267b1b8/)
-- 📧 Email: [ahmdthemagnificent@gmail.com](mailto:ahmdthemagnificent@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-bhan-83267b1b8/)  
+📧 Email: [ahmdthemagnificent@gmail.com](mailto:ahmdthemagnificent@gmail.com)
+
+</div>
 
 ---
 
-💡 *Feel free to reach out for collaboration, open-source contributions, or just to say hi! Let's build amazing things together!*
+💡 *Reach out for collaboration, discussions, or to share ideas!*
