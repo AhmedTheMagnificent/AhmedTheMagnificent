@@ -25,7 +25,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,ts,nodejs,angular,express,git,java,docker,linux,py,arduino,tensorflow,pytorch&perline=14" align="center/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,docker,arduino,git,github,python,java,express,angular,nodejs,py,tensorflow,pytorch,linux,matlab" />
   </a>
 </p>
 
