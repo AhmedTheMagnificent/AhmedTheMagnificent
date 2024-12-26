@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,docker,arduino,git" />
-    <img src="https://skillicons.dev/icons?i=github,java,express,angular,nodejs,py,tensorflow,pytorch,linux,matlab" />
+    <img src="https://skillicons.dev/icons?i=github,java,express,nodejs,py,tensorflow,pytorch,linux,matlab,aws" />
   </a>
 </p>
 
