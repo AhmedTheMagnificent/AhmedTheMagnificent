@@ -25,7 +25,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,docker,arduino,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,docker,arduino,git"  />
     <img src="https://skillicons.dev/icons?i=aws,java,express,nodejs,py,tensorflow,pytorch,linux,matlab,github" />
   </a>
 </p>
