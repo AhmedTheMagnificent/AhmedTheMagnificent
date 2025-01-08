@@ -13,7 +13,7 @@
 
 - 🔭 I’m actively building skills in **Robotics**, **Machine Learning**, **Deep Learning**, and **Full Stack Development (MEAN Stack)**.
 
-- 🌱 Currently exploring **Generative AI**, **Advanced Computer Vision**, **Cloud Computing**, and the **DevOps**.
+- 🌱 Currently exploring **Generative AI**, **Computer Vision**, **Cloud Computing**, and the **DevOps**.
 
 
 
