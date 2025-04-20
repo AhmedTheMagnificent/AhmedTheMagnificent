@@ -7,7 +7,7 @@
 <!-- Intro -->
 <div id="user-content-toc">
   <ul align="center">
-    <h2 style="display: inline-block">Confusion is part of Programming!</h2>
+    <h2 style="display: inline-block">Programmer</h2>
   </ul>
 </div>
 
@@ -25,8 +25,8 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,docker,arduino,git"  />
-    <img src="https://skillicons.dev/icons?i=aws,java,mysql,nodejs,py,tensorflow,pytorch,linux,matlab,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,docker,git,kubernetes,arduino"  />
+    <img src="https://skillicons.dev/icons?i=aws,java,mysql,nodejs,py,tensorflow,pytorch,linux,matlab,github,react" />
   </a>
 </p>
 
