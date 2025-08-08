@@ -8,8 +8,8 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,docker,git,kubernetes,arduino,mongodb,postman"  />
-    <img src="https://skillicons.dev/icons?i=aws,java,mysql,nodejs,py,tensorflow,pytorch,linux,matlab,github,githubactions,react,threejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,docker,git,kubernetes,mongodb,postman"  />
+    <img src="https://skillicons.dev/icons?i=aws,java,mysql,nodejs,py,tensorflow,pytorch,linux,github,githubactions,react,threejs" />
   </a>
 </p>
 
